@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-b2b-self-service-flutter",
+  "capabilityKey": "planned:ecommerce:b2b-self-service",
+  "presentation": "mobile-flutter",
+  "package": "module_ecommerce_b2b_self_service_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/ecommerce/nextjs/b2b-self-service.md",
+  "presentationPlan": "projects/ecommerce/flutter/b2b-self-service.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
